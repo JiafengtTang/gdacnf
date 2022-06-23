@@ -10,7 +10,6 @@ import FFJORD2 as cnf
 settings = {
             'mnist': ([0, 10, 21], 5),
             'portraits': ([0, 3, 7], 3),
-            'gas': ([0, 1, 2], 3),
            }
 
 if __name__ == '__main__':
